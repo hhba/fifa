@@ -85,5 +85,4 @@ $ wc -l /tmp/goles.csv
 2220 /tmp/goles.csv
 ```
 
-
-
+[Acá hay un Google Fusion Table con el resultado](https://www.google.com/fusiontables/data?docid=1wXLPcmrkWO-6XoXaytgtYksfYfxxqs_IzzZHaiaR#rows:id=1)
